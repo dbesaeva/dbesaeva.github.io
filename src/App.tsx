@@ -10,7 +10,7 @@ const App: React.FC = () => {
     <Provider store={store}>
       <Router>
         <Routes>
-          <Route path="/dbesaeva.github.io" element={<Products />} />
+          <Route path="/react-redux-shop" element={<Products />} />
           <Route path="/product/:id" element={<ProductDetails />} />
         </Routes>
       </Router>
