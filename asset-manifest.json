@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dbesaeva.github.io/static/css/main.743280c6.css",
+    "main.js": "/dbesaeva.github.io/static/js/main.715c9085.js",
+    "index.html": "/dbesaeva.github.io/index.html",
+    "main.743280c6.css.map": "/dbesaeva.github.io/static/css/main.743280c6.css.map",
+    "main.715c9085.js.map": "/dbesaeva.github.io/static/js/main.715c9085.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.743280c6.css",
+    "static/js/main.715c9085.js"
+  ]
+}
