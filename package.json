@@ -31,7 +31,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://dbesaeva.github.io/dbesaeva.github.io",
+  "homepage": "https://dbesaeva.github.io/react-redux-shop",
   "eslintConfig": {
     "extends": [
       "react-app",
